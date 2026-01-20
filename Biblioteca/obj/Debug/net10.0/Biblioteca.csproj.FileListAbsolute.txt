@@ -1,0 +1,14 @@
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\bin\Debug\net10.0\Biblioteca.exe
+C:\Users\Andressa Marques\Desktop\RDI\Biblioteca\bin\Debug\net10.0\Biblioteca.deps.json
+C:\Users\Andressa Marques\Desktop\RDI\Biblioteca\bin\Debug\net10.0\Biblioteca.runtimeconfig.json
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\bin\Debug\net10.0\Biblioteca.dll
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\bin\Debug\net10.0\Biblioteca.pdb
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfoInputs.cache
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfo.cs
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.csproj.CoreCompileInputs.cache
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.dll
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\refint\Biblioteca.dll
+c:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.pdb
+C:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\Biblioteca.genruntimeconfig.cache
+C:\Users\Andressa Marques\Desktop\RDI\Biblioteca\obj\Debug\net10.0\ref\Biblioteca.dll
