@@ -56,3 +56,8 @@ public class P{
 }
 
 ```
+
+
+Classes criadas para realização do exercício: 
+- FinalPayment.cs
+- Customer.cs
