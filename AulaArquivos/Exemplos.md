@@ -1,4 +1,6 @@
-// See https://aka.ms/new-console-template for more information
+### Exemplos do exercício feito em aula
+
+```
 Console.WriteLine("-- Geração de arquivos --");
 
 
@@ -52,3 +54,5 @@ if(option == 3)
 Console.WriteLine(Directory.GetCurrentDirectory());
 Console.WriteLine(path);
 Console.WriteLine(option);
+
+```
